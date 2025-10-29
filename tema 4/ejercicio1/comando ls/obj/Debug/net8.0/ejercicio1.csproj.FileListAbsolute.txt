@@ -1,0 +1,14 @@
+D:\2º DAM\(Curro) Programación de servicios y procesos\tema 4\ejercicio1\ejercicio1\obj\Debug\net8.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\2º DAM\(Curro) Programación de servicios y procesos\tema 4\ejercicio1\ejercicio1\obj\Debug\net8.0\ejercicio1.AssemblyInfoInputs.cache
+D:\2º DAM\(Curro) Programación de servicios y procesos\tema 4\ejercicio1\ejercicio1\obj\Debug\net8.0\ejercicio1.AssemblyInfo.cs
+D:\2º DAM\(Curro) Programación de servicios y procesos\tema 4\ejercicio1\ejercicio1\obj\Debug\net8.0\ejercicio1.csproj.CoreCompileInputs.cache
+D:\2º DAM\(Curro) Programación de servicios y procesos\tema 4\ejercicio1\ejercicio1\bin\Debug\net8.0\ejercicio1.exe
+D:\2º DAM\(Curro) Programación de servicios y procesos\tema 4\ejercicio1\ejercicio1\bin\Debug\net8.0\ejercicio1.deps.json
+D:\2º DAM\(Curro) Programación de servicios y procesos\tema 4\ejercicio1\ejercicio1\bin\Debug\net8.0\ejercicio1.runtimeconfig.json
+D:\2º DAM\(Curro) Programación de servicios y procesos\tema 4\ejercicio1\ejercicio1\bin\Debug\net8.0\ejercicio1.dll
+D:\2º DAM\(Curro) Programación de servicios y procesos\tema 4\ejercicio1\ejercicio1\bin\Debug\net8.0\ejercicio1.pdb
+D:\2º DAM\(Curro) Programación de servicios y procesos\tema 4\ejercicio1\ejercicio1\obj\Debug\net8.0\ejercicio1.dll
+D:\2º DAM\(Curro) Programación de servicios y procesos\tema 4\ejercicio1\ejercicio1\obj\Debug\net8.0\refint\ejercicio1.dll
+D:\2º DAM\(Curro) Programación de servicios y procesos\tema 4\ejercicio1\ejercicio1\obj\Debug\net8.0\ejercicio1.pdb
+D:\2º DAM\(Curro) Programación de servicios y procesos\tema 4\ejercicio1\ejercicio1\obj\Debug\net8.0\ejercicio1.genruntimeconfig.cache
+D:\2º DAM\(Curro) Programación de servicios y procesos\tema 4\ejercicio1\ejercicio1\obj\Debug\net8.0\ref\ejercicio1.dll
