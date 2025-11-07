@@ -11,7 +11,6 @@ namespace ejercicio1
             if (Directory.Exists(usuario))
             {
                 DirectoryInfo informacionD = new DirectoryInfo(usuario);
-                //Console.WriteLine(informacionD.FullName);
                 foreach (var directorio in informacionD.GetDirectories())
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
@@ -34,6 +33,16 @@ namespace ejercicio1
                 Console.WriteLine($"no existe el directorio: {usuario}");
             }
         }
+
+        public static void comando_cat(string usuario)
+        {
+            if ( !File.Exists(usuario))
+            {
+                Console.Write $"no existe el archivo {usuario}";
+                    
+            }
+
+        }
         static void Main(string[] args)
         {
             foreach (var item in args)
@@ -41,6 +50,7 @@ namespace ejercicio1
                 if ( args.Length >0)
                 {
                     comando_ls(args[0]);
+                    comando_cat()
                 }
             }
         }
