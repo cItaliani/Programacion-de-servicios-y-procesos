@@ -1,0 +1,14 @@
+C:\Users\acuar\source\repos\Tema_4\newfile\bin\Debug\net8.0\newfile.exe
+C:\Users\acuar\source\repos\Tema_4\newfile\bin\Debug\net8.0\newfile.deps.json
+C:\Users\acuar\source\repos\Tema_4\newfile\bin\Debug\net8.0\newfile.runtimeconfig.json
+C:\Users\acuar\source\repos\Tema_4\newfile\bin\Debug\net8.0\newfile.dll
+C:\Users\acuar\source\repos\Tema_4\newfile\bin\Debug\net8.0\newfile.pdb
+C:\Users\acuar\source\repos\Tema_4\newfile\obj\Debug\net8.0\newfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acuar\source\repos\Tema_4\newfile\obj\Debug\net8.0\newfile.AssemblyInfoInputs.cache
+C:\Users\acuar\source\repos\Tema_4\newfile\obj\Debug\net8.0\newfile.AssemblyInfo.cs
+C:\Users\acuar\source\repos\Tema_4\newfile\obj\Debug\net8.0\newfile.csproj.CoreCompileInputs.cache
+C:\Users\acuar\source\repos\Tema_4\newfile\obj\Debug\net8.0\newfile.dll
+C:\Users\acuar\source\repos\Tema_4\newfile\obj\Debug\net8.0\refint\newfile.dll
+C:\Users\acuar\source\repos\Tema_4\newfile\obj\Debug\net8.0\newfile.pdb
+C:\Users\acuar\source\repos\Tema_4\newfile\obj\Debug\net8.0\newfile.genruntimeconfig.cache
+C:\Users\acuar\source\repos\Tema_4\newfile\obj\Debug\net8.0\ref\newfile.dll

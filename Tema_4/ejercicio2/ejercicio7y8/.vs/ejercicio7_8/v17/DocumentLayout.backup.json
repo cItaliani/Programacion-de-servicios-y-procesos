@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2\u00BA DAM\\(Curro) Desenvolvemento de interfaces\\tema 1-2-3\\EjerciciosTema1.2.3\\ejercicio7y8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{908D77E8-95F4-1E09-274F-073F19AA2789}|ejercicio7_8.csproj|d:\\2\u00BA dam\\(curro) desenvolvemento de interfaces\\tema 1-2-3\\ejerciciostema1.2.3\\ejercicio7y8\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908D77E8-95F4-1E09-274F-073F19AA2789}|ejercicio7_8.csproj|solutionrelative:principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908D77E8-95F4-1E09-274F-073F19AA2789}|ejercicio7_8.csproj|d:\\2\u00BA dam\\(curro) desenvolvemento de interfaces\\tema 1-2-3\\ejerciciostema1.2.3\\ejercicio7y8\\cometa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908D77E8-95F4-1E09-274F-073F19AA2789}|ejercicio7_8.csproj|solutionrelative:cometa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908D77E8-95F4-1E09-274F-073F19AA2789}|ejercicio7_8.csproj|d:\\2\u00BA dam\\(curro) desenvolvemento de interfaces\\tema 1-2-3\\ejerciciostema1.2.3\\ejercicio7y8\\iterraformable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908D77E8-95F4-1E09-274F-073F19AA2789}|ejercicio7_8.csproj|solutionrelative:iterraformable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908D77E8-95F4-1E09-274F-073F19AA2789}|ejercicio7_8.csproj|d:\\2\u00BA dam\\(curro) desenvolvemento de interfaces\\tema 1-2-3\\ejerciciostema1.2.3\\ejercicio7y8\\astro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908D77E8-95F4-1E09-274F-073F19AA2789}|ejercicio7_8.csproj|solutionrelative:astro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908D77E8-95F4-1E09-274F-073F19AA2789}|ejercicio7_8.csproj|d:\\2\u00BA dam\\(curro) desenvolvemento de interfaces\\tema 1-2-3\\ejerciciostema1.2.3\\ejercicio7y8\\planeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908D77E8-95F4-1E09-274F-073F19AA2789}|ejercicio7_8.csproj|solutionrelative:planeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Planeta.cs",
+              "DocumentMoniker": "D:\\2\u00BA DAM\\(Curro) Desenvolvemento de interfaces\\tema 1-2-3\\EjerciciosTema1.2.3\\ejercicio7y8\\Planeta.cs",
+              "RelativeDocumentMoniker": "Planeta.cs",
+              "ToolTip": "D:\\2\u00BA DAM\\(Curro) Desenvolvemento de interfaces\\tema 1-2-3\\EjerciciosTema1.2.3\\ejercicio7y8\\Planeta.cs",
+              "RelativeToolTip": "Planeta.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwEMAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:19:17.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "D:\\2\u00BA DAM\\(Curro) Desenvolvemento de interfaces\\tema 1-2-3\\EjerciciosTema1.2.3\\ejercicio7y8\\Principal.cs",
+              "RelativeDocumentMoniker": "Principal.cs",
+              "ToolTip": "D:\\2\u00BA DAM\\(Curro) Desenvolvemento de interfaces\\tema 1-2-3\\EjerciciosTema1.2.3\\ejercicio7y8\\Principal.cs*",
+              "RelativeToolTip": "Principal.cs*",
+              "ViewState": "AgIAANkAAAAAAAAAAAAIwOoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:19:16.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Astro.cs",
+              "DocumentMoniker": "D:\\2\u00BA DAM\\(Curro) Desenvolvemento de interfaces\\tema 1-2-3\\EjerciciosTema1.2.3\\ejercicio7y8\\Astro.cs",
+              "RelativeDocumentMoniker": "Astro.cs",
+              "ToolTip": "D:\\2\u00BA DAM\\(Curro) Desenvolvemento de interfaces\\tema 1-2-3\\EjerciciosTema1.2.3\\ejercicio7y8\\Astro.cs",
+              "RelativeToolTip": "Astro.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwBsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:19:16.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cometa.cs",
+              "DocumentMoniker": "D:\\2\u00BA DAM\\(Curro) Desenvolvemento de interfaces\\tema 1-2-3\\EjerciciosTema1.2.3\\ejercicio7y8\\Cometa.cs",
+              "RelativeDocumentMoniker": "Cometa.cs",
+              "ToolTip": "D:\\2\u00BA DAM\\(Curro) Desenvolvemento de interfaces\\tema 1-2-3\\EjerciciosTema1.2.3\\ejercicio7y8\\Cometa.cs",
+              "RelativeToolTip": "Cometa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:19:16.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITerraformable.cs",
+              "DocumentMoniker": "D:\\2\u00BA DAM\\(Curro) Desenvolvemento de interfaces\\tema 1-2-3\\EjerciciosTema1.2.3\\ejercicio7y8\\ITerraformable.cs",
+              "RelativeDocumentMoniker": "ITerraformable.cs",
+              "ToolTip": "D:\\2\u00BA DAM\\(Curro) Desenvolvemento de interfaces\\tema 1-2-3\\EjerciciosTema1.2.3\\ejercicio7y8\\ITerraformable.cs",
+              "RelativeToolTip": "ITerraformable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:19:16.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

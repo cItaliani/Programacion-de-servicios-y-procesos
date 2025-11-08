@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ejercicio1": {
+      "commandName": "Project",
+      "commandLineArgs": "desktop"
+    }
+  }
+}

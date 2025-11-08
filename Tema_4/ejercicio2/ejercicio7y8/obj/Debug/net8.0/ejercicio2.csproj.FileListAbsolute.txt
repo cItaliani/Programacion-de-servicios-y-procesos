@@ -1,0 +1,15 @@
+F:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\bin\Debug\net8.0\ejercicio2.exe
+F:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\bin\Debug\net8.0\ejercicio2.deps.json
+F:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\bin\Debug\net8.0\ejercicio2.runtimeconfig.json
+F:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\bin\Debug\net8.0\ejercicio2.dll
+F:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\bin\Debug\net8.0\ejercicio2.pdb
+F:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\obj\Debug\net8.0\ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+F:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\obj\Debug\net8.0\ejercicio2.AssemblyInfoInputs.cache
+F:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\obj\Debug\net8.0\ejercicio2.AssemblyInfo.cs
+F:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\obj\Debug\net8.0\ejercicio2.csproj.CoreCompileInputs.cache
+F:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\obj\Debug\net8.0\ejercicio2.sourcelink.json
+F:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\obj\Debug\net8.0\ejercicio2.dll
+F:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\obj\Debug\net8.0\refint\ejercicio2.dll
+F:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\obj\Debug\net8.0\ejercicio2.pdb
+F:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\obj\Debug\net8.0\ejercicio2.genruntimeconfig.cache
+F:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\obj\Debug\net8.0\ref\ejercicio2.dll

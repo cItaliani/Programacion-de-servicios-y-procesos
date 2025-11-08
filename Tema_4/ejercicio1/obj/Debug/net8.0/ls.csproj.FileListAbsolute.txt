@@ -1,0 +1,14 @@
+C:\Users\acuar\source\repos\Tema_4\ejercicio1\bin\Debug\net8.0\ls.exe
+C:\Users\acuar\source\repos\Tema_4\ejercicio1\bin\Debug\net8.0\ls.deps.json
+C:\Users\acuar\source\repos\Tema_4\ejercicio1\bin\Debug\net8.0\ls.runtimeconfig.json
+C:\Users\acuar\source\repos\Tema_4\ejercicio1\bin\Debug\net8.0\ls.dll
+C:\Users\acuar\source\repos\Tema_4\ejercicio1\bin\Debug\net8.0\ls.pdb
+C:\Users\acuar\source\repos\Tema_4\ejercicio1\obj\Debug\net8.0\ls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acuar\source\repos\Tema_4\ejercicio1\obj\Debug\net8.0\ls.AssemblyInfoInputs.cache
+C:\Users\acuar\source\repos\Tema_4\ejercicio1\obj\Debug\net8.0\ls.AssemblyInfo.cs
+C:\Users\acuar\source\repos\Tema_4\ejercicio1\obj\Debug\net8.0\ls.csproj.CoreCompileInputs.cache
+C:\Users\acuar\source\repos\Tema_4\ejercicio1\obj\Debug\net8.0\ls.dll
+C:\Users\acuar\source\repos\Tema_4\ejercicio1\obj\Debug\net8.0\refint\ls.dll
+C:\Users\acuar\source\repos\Tema_4\ejercicio1\obj\Debug\net8.0\ls.pdb
+C:\Users\acuar\source\repos\Tema_4\ejercicio1\obj\Debug\net8.0\ls.genruntimeconfig.cache
+C:\Users\acuar\source\repos\Tema_4\ejercicio1\obj\Debug\net8.0\ref\ls.dll

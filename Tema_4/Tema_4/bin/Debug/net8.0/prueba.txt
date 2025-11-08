@@ -1,0 +1,5 @@
+Compilación iniciada a las 13:03...
+1>------ Operación Compilar iniciada: Proyecto: cat, configuración: Debug Any CPU ------
+1>cat -> C:\Users\acuar\source\repos\Tema_4\Tema_4\bin\Debug\net8.0\cat.dll
+========== Compilación: 1 correcto, 0 erróneo, 1 actualizado, 0 omitido ==========
+========== Compilar completado a las 13:03 y tardó 00,337 segundos ==========

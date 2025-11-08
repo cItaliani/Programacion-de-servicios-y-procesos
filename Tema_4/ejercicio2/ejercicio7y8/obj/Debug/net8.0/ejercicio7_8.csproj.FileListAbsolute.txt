@@ -1,0 +1,35 @@
+D:\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7\obj\Debug\net8.0\ejercicio7_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7\obj\Debug\net8.0\ejercicio7_8.AssemblyInfoInputs.cache
+D:\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7\obj\Debug\net8.0\ejercicio7_8.AssemblyInfo.cs
+D:\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7\obj\Debug\net8.0\ejercicio7_8.csproj.CoreCompileInputs.cache
+D:\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7\bin\Debug\net8.0\ejercicio7_8.exe
+D:\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7\bin\Debug\net8.0\ejercicio7_8.deps.json
+D:\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7\bin\Debug\net8.0\ejercicio7_8.runtimeconfig.json
+D:\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7\bin\Debug\net8.0\ejercicio7_8.dll
+D:\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7\bin\Debug\net8.0\ejercicio7_8.pdb
+D:\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7\obj\Debug\net8.0\ejercicio7_8.dll
+D:\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7\obj\Debug\net8.0\refint\ejercicio7_8.dll
+D:\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7\obj\Debug\net8.0\ejercicio7_8.pdb
+D:\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7\obj\Debug\net8.0\ejercicio7_8.genruntimeconfig.cache
+D:\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7\obj\Debug\net8.0\ref\ejercicio7_8.dll
+F:\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7\obj\Debug\net8.0\ejercicio7_8.GeneratedMSBuildEditorConfig.editorconfig
+F:\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7\obj\Debug\net8.0\ejercicio7_8.AssemblyInfoInputs.cache
+F:\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7\obj\Debug\net8.0\ejercicio7_8.AssemblyInfo.cs
+F:\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7\obj\Debug\net8.0\ejercicio7_8.csproj.CoreCompileInputs.cache
+F:\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7\obj\Debug\net8.0\ejercicio7_8.dll
+F:\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7\obj\Debug\net8.0\refint\ejercicio7_8.dll
+F:\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7\obj\Debug\net8.0\ejercicio7_8.pdb
+D:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\obj\Debug\net8.0\ejercicio7_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\obj\Debug\net8.0\ejercicio7_8.AssemblyInfoInputs.cache
+D:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\obj\Debug\net8.0\ejercicio7_8.AssemblyInfo.cs
+D:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\obj\Debug\net8.0\ejercicio7_8.csproj.CoreCompileInputs.cache
+D:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\obj\Debug\net8.0\ejercicio7_8.dll
+D:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\obj\Debug\net8.0\refint\ejercicio7_8.dll
+D:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\obj\Debug\net8.0\ejercicio7_8.pdb
+D:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\bin\Debug\net8.0\ejercicio7_8.exe
+D:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\bin\Debug\net8.0\ejercicio7_8.deps.json
+D:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\bin\Debug\net8.0\ejercicio7_8.runtimeconfig.json
+D:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\bin\Debug\net8.0\ejercicio7_8.dll
+D:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\bin\Debug\net8.0\ejercicio7_8.pdb
+D:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\obj\Debug\net8.0\ejercicio7_8.genruntimeconfig.cache
+D:\2º DAM\(Curro) Desenvolvemento de interfaces\tema 1-2-3\EjerciciosTema1.2.3\ejercicio7y8\obj\Debug\net8.0\ref\ejercicio7_8.dll
