@@ -172,7 +172,7 @@ namespace ejercicio7
         }
 
         #region funciones ejercicio2
-        private static readonly string ruta = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), "Astros.bin");
+        private static readonly string ruta = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), "Astros.txt");
         // combiamos la ruta del entorno a travesde la variable de entrono, con el archivo del final de la ruta.
         public static List<Astro> cargar() {
             List<Astro> astrosCargados = new List<Astro>();
@@ -184,31 +184,38 @@ namespace ejercicio7
 
             try 
             {
-                using (BinaryReader br = new BinaryReader(File.OpenRead(ruta)))
+                using (StreamReader sr = new StreamReader(ruta))
                 {
-                    int nlineas = br.ReadInt32();
-                    for (Int32 i = 0; i < nlineas; i++)
+                    string linea;
+                    while ((linea=sr.ReadLine())!=null)
                     {
-                        string tipo = br.ReadString();
-                        string nombre = br.ReadString();
-                        double radio = br.ReadDouble();
+                        string[] datos = linea.Split(";");
+
+                        if (datos.Length==0)
+                        {
+                            continue;
+                        }
+                        string tipo = datos[0];
+                        string nombre = datos[1];
+                        double radio = double.Parse(datos[2]);
                         if (tipo=="planeta")
                         {
-                            bool gaseoso = br.ReadBoolean();
-                            int satelites = br.ReadInt32();
-                            astrosCargados.Add(new Planeta(nombre,radio,gaseoso,satelites));
-                        }else if (tipo=="cometa")
+                            bool gaseoso = bool.Parse(datos[3]);
+                            int satelites = int.Parse(datos[4]);
+                            astrosCargados.Add(new Planeta(nombre, radio, gaseoso, satelites));
+                        }
+                        else if(tipo=="cometa")
                         {
-                            Cometa cometa1 = new()
+                            Cometa cometa1 = new Cometa()
                             {
-                                Radio = radio,
-                                Nombre = nombre
+                                Nombre = nombre,
+                                Radio = radio
                             };
                             astrosCargados.Add(cometa1);
                         }
+
                     }
-                }
-                ; 
+                }; 
             }
             catch (IOException e)
             {
@@ -221,22 +228,17 @@ namespace ejercicio7
         {
             try 
             {
-                using (BinaryWriter bw = new BinaryWriter(File.OpenWrite(ruta)))
+                using (StreamWriter sw = new StreamWriter(ruta,false))
                 {
                     foreach (var item in listaGuardar)
                     {
                         if (item is Planeta p)
                         {
-                            bw.Write("planeta");
-                            bw.Write(p.Nombre);
-                            bw.Write(p.Radio);
-                            bw.Write(p.Gaseoso);
-                            bw.Write(p.NSatelites);
-                        }else if(item is Cometa c)
+                            sw.WriteLine($"planeta;{p.Nombre};{p.Radio};{p.Gaseoso};{p.NSatelites}");
+                        }
+                        else if (item is Cometa c)
                         {
-                            bw.Write("cometa");
-                            bw.Write(c.Nombre);
-                            bw.Write(c.Radio);
+                            sw.WriteLine($"cometa;{c.Nombre};{c.Radio}");
                         }
                     }
                 }
